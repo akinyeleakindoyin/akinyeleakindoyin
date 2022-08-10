@@ -13,10 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
- 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
- 
-
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -50,9 +47,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akinyele-portfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/akinyele-akindoyin-1a5987125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/iamyele/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.akinyele-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akinyele-portfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/akinyele-akindoyin-1a5987125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akinyele%20Abraham%20Akindoyin-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/iamyele/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamyele-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:doyinakinyele@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-doyinakinyele@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
