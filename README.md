@@ -1,55 +1,42 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+# Abraham Akindoyin
 
-<h2> Hey there! I'm Akinyele.</h2>
+**Network Engineer | Enterprise Infrastructure · Network Security · Automation**
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I work on complex enterprise networks, with a focus on understanding *why* something is happening before deciding *what* to change. My experience includes Cisco Secure Firewall investigations, wireless-controller migrations, SD-WAN deployments, and automation-assisted infrastructure validation.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Los Angeles City College.
-- 💼 &nbsp; Actively looking for internship opportunities
-- 🌱 &nbsp; Learning more about Front-end frameworks, Data structures, Algorithm.
-- ✍️ &nbsp; Love to hangout with friends and play soccer.
+I'm particularly interested in making troubleshooting and network changes more **evidence-driven, repeatable, and easier to validate**.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### What I work on
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+- **Network diagnostics:** Correlating firewall telemetry, packet captures, routing, NAT/PAT state, and endpoint observations to distinguish symptoms from root causes.
+- **Infrastructure automation:** Building practical Python and Netmiko workflows to reduce repetitive tasks and support multi-device migrations.
+- **Change assurance:** Planning, staging, validating, and documenting network changes with attention to operational continuity and rollback readiness.
+- **Knowledge sharing:** Turning real engineering lessons into technical write-ups and reproducible, appropriately scoped examples.
 
+### Selected projects
 
-<br/>
+| Project | Focus |
+| --- | --- |
+| **[NGFW uRPF & Telemetry Correlation](https://github.com/akinyeleakindoyin/ngfw-urpf-telemetry-correlation)** | Technical write-up of a Cisco FTD `106021` investigation involving NAT/PAT, ASP captures, endpoint evidence, and Windows Delivery Optimization. Includes a **separately developed synthetic lab** for multi-plane correlation and SYN-timeline comparison. |
+| **[Wireless Migration Automation](https://github.com/akinyeleakindoyin/wireless-migration-automation)** | Python/Netmiko scripts and a documented workflow for AP image staging, concurrent integrity-output collection, controlled restarts, and controller reassignment, developed from wireless migration challenges. [Review the current implementation](https://github.com/akinyeleakindoyin/wireless-migration-automation/pull/1). |
+| **[MPLS Lab](https://github.com/akinyeleakindoyin/MPLS)** | GNS3-based multi-VRF connectivity and CE/PE peering exercises using a preconfigured provider core. |
 
-<!-- <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a> -->
+Other networking labs: [DMVPN](https://github.com/akinyeleakindoyin/DMVPN) · [QoS & SLA](https://github.com/akinyeleakindoyin/QoSandSLA)
 
-<br/>
+### Technical writing
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+**[Millions of FTD “106021” uRPF Drops Traced to Delivery Optimization](https://community.cisco.com/t5/network-security/millions-of-ftd-quot-106021-quot-urpf-drops-traced-to-delivery/td-p/5563872)** — Cisco Community
 
-<p align="center">
-<a href="https://www.akinyele-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akinyele-portfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/akinyele-akindoyin-1a5987125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akinyele%20Abraham%20Akindoyin-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/iamyele/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamyele-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:doyinakinyele@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-doyinakinyele@yahoo.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+A practical account of using multiple evidence sources to investigate apparent reverse-path failures without prematurely attributing them to asymmetric routing.
 
+### Background & current focus
+
+- **Education:** M.S. in Information Technology, concentration in Cybersecurity — Westcliff University.
+- **Technologies and methods:** Cisco FTD/FMC, Cisco wireless and Catalyst Center, Python, Netmiko, Wireshark, packet analysis, routing and switching, SD-WAN, and Git.
+- **Current focus:** Reusable network-assurance methods, better fault isolation, and more systematic validation of infrastructure changes.
+
+Public labs and examples are educational or independently documented engineering resources. They are not represented as production-ready tools or proof of deployment in environments where they were not used.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/akinyele-akindoyin-1a5987125/) · [GitHub projects](https://github.com/akinyeleakindoyin?tab=repositories)
